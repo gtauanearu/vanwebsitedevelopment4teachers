@@ -1,7 +1,10 @@
 # vanwebsitedevelopment4teachers
-This repository is created to enhance trainee teachers or teachers to shift out from their comfort zone of classroom teaching to online teaching. It is an initiative to enable interested teachers to proof his/her authenticity and his professionalism through a portfolio of his/her own creativity, enhanced by ChatGPT + its latest versions  and others
-First we will explore the language of HTML such as you may know as HyperText Markup Language.
+This repository is created to enhance trainee teachers or teachers to shift out from their comfort zone of classroom teaching to online adventure. It is an initiative to enable interested teachers to proof his/her authenticity and his professionalism through a portfolio which was created based on his/her own creative ambition, enhanced by ChatGPT + its latest versions  and others
+First we will explore the potential of GitHub and some of the features that we will be required to acquire in order to fulfil the Learning outcomes outline for this module. Secondly we will discover the basic of the Web Programming Langage known as front-end programming language, HTML (HyperText Markup Langage) and CSS (Cascade Style Sheet).
 
+<h1> 1. Understand Git and GitHub </h1>
+
+Git is a 
 To write an HTML file we will discover that it is very and simply easy to use what we called, taggs.
 
 The taggs are distinguished by two to three special characters.
