@@ -11,3 +11,5 @@ We defined opening tagg by opening tagg and clossing tagg.
 For instance in the file index.html, we have the opening tag really coded with less than sign < ''name of the tag'' with higher than sign >
 The opening <html> tag and the closing </html>
 
+
+
